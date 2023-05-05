@@ -467,5 +467,27 @@
       "message": "Message",
       "max_characters": "{{ max_chars }} characters max"
     }
+  },
+  "product": {
+    "copy": {
+      "headline": "Good headphones and loud music is all you need",
+      "description_headline": "Information"
+    },
+    "details_list": {
+      "item_1": "Active noise cancelling",
+      "item_2": "30 hours of continuous music playback"
+    },
+    "form": {
+      "submit": "Preorder"
+    }
+  },
+  "cart": {
+    "button": {
+      "filled": "Your Cart",
+      "empty": "Your Cart is empty",
+      "close": "Close"
+
+
+    }
   }
 }
